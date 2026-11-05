@@ -11,4 +11,4 @@
 3. После слияния в `main` MkDocs собирает статический сайт.
 4. GitHub Pages публикует артефакт сборки.
 
-Адрес будущего сайта: `https://slopslopus.github.io/devops-docs/`.
+Адрес будущего сайта: `https://slopslopus.github.io/devops/`.
