@@ -12,3 +12,5 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://slopslopus.github.io/devops/`.
+
+См. [потерянную страницу](missing-page.md).
